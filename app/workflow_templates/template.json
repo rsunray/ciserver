@@ -1,0 +1,14 @@
+{
+  "version": "1",
+  "name": "SIMPLE_PIPELINE_WITH_CODE_REVIEW"
+  "stages": ""
+    "gitClone":""
+  "build":""
+  "eslint":""
+  "htmlhint":""
+  "codeCoverage":""
+  "blackBoxTest":""
+  "whiteBoxTest":""
+  "unitTest":""
+  "code-review":""
+}
